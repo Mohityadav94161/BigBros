@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BigBros.github.io/static/css/main.b23e0129.css",
+    "main.js": "/BigBros.github.io/static/js/main.beb7527a.js",
+    "static/media/slick.svg": "/BigBros.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/BigBros.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/BigBros.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/BigBros.github.io/index.html",
+    "static/media/slick.woff": "/BigBros.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "main.b23e0129.css.map": "/BigBros.github.io/static/css/main.b23e0129.css.map",
+    "main.beb7527a.js.map": "/BigBros.github.io/static/js/main.beb7527a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b23e0129.css",
+    "static/js/main.beb7527a.js"
+  ]
+}
